@@ -4,6 +4,8 @@
 yarn install
 ```
 
+## Copy .env-example to .env
+
 ## Running the app
 
 ```bash
@@ -19,4 +21,6 @@ $ yarn run start:prod
 
 ## API Endpint
 
-- get all books http://locahost:3000/books
+## API Documentation
+
+For detailed API documentation, visit [API Documentation](https://documenter.getpostman.com/view/25131959/2sAYQanCDv).
